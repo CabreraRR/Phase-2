@@ -2,7 +2,7 @@
 
 ## Skills
 
-[ ] Can start and stop services with brew services, in the terminal
+- [ ] Can start and stop services with brew services, in the terminal
 	- to stop a service 
 	```
 	brew services stop *NAME OF SERVICE*
@@ -11,29 +11,30 @@
 	```
 	brew services start *NAME OF SERVICE*
 	```
-[ ] Can add a custom bin directory to their Shell config, in the terminal
-[ ] Can use | (pipe) in the terminal
-[ ] Can use > (redirect) in the terminal
-[ ] Can use `ctrl-z` in the terminal
-[ ] Can use `ctrl-r` in the terminal
-[ ] Can use the `tail` terminal command
-[ ] Can use the `grep` terminal command
-[ ] Can use the `wc` terminal command
-[ ] Can use the `du` terminal command
-[ ] Can use the `man` terminal command
-[ ] Can use the `file` terminal command
-[ ] Can use the `ps` terminal command
-[ ] Can use the `kill` terminal command
-[ ] Can use the `chmod` terminal command
-[ ] Can use the `pbcopy` terminal command
-[ ] Can use the `pbpaste` terminal command
-[ ] Can write an executable bash script
-[ ] Can and modify your shell's `$PATH`, in the terminal
-[ ] Can redirect `STDOUT` to a file, in the terminal
-[ ] Can use UNIX command flags and arguments
-[ ] Can describe UNIX file permissions
-[ ] Can get a file's permissions, in the terminal
-[ ] Can set a file's permissions, in the terminal
+
+- [ ] Can add a custom bin directory to their Shell config, in the terminal
+- [ ] Can use | (pipe) in the terminal
+- [ ] Can use > (redirect) in the terminal
+- [ ] Can use `ctrl-z` in the terminal
+- [ ] Can use `ctrl-r` in the terminal
+- [ ] Can use the `tail` terminal command
+- [ ] Can use the `grep` terminal command
+- [ ] Can use the `wc` terminal command
+- [ ] Can use the `du` terminal command
+- [ ] Can use the `man` terminal command
+- [ ] Can use the `file` terminal command
+- [ ] Can use the `ps` terminal command
+- [ ] Can use the `kill` terminal command
+- [ ] Can use the `chmod` terminal command
+- [ ] Can use the `pbcopy` terminal command
+- [ ] Can use the `pbpaste` terminal command
+- [ ] Can write an executable bash script
+- [ ] Can and modify your shell's `$PATH`, in the terminal
+- [ ] Can redirect `STDOUT` to a file, in the terminal
+- [ ] Can use UNIX command flags and arguments
+- [ ] Can describe UNIX file permissions
+- [ ] Can get a file's permissions, in the terminal
+- [ ] Can set a file's permissions, in the terminal
 
 
 ## Suggested Search Terms
