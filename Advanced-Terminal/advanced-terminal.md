@@ -64,8 +64,8 @@
 	- ```bash
 	STDOUT &> file.txt
 	```
-- [ ] Can use UNIX command flags and arguments
-	-
+- [x] Can use UNIX command flags and arguments
+	- 
 - [x] Can describe UNIX file permissions
 	- There are three groups Owner Permissions, Group Permissions, and World Permissions. (r) read (w) write (x) execute
 - [x] Can get a file's permissions, in the terminal
