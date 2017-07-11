@@ -22,7 +22,7 @@
 - [x] Can use `git checkout -p`
 	- will allow the user to compare the difference between the current working directory and the tree
 - [ ] Can use `git reset -p`
-	- 
+	- allows the user to check the difference between the index and the `HEAD`
 - [x] Can use `git stash`
 	- will put all the changes to the working directory in a stash that will hold it temporarily
 - [x] Can use `git stash pop` {git stash --help}
